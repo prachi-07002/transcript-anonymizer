@@ -1,0 +1,16 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: General follow-up interview (fictional)
+Date of interview: [DATE-1]
+Interviewer: Dr. [NAME-3] (fictional researcher)
+
+[00:00:03] Interviewer: [NAME-4], thanks for coming back for a follow-up.
+[00:00:11] [NAME-4]: No problem. I'm [NAME-4], student ID [ID-1]. I am in [COURSE-1] and [COURSE-2] this semester.
+[00:00:39] [NAME-4]: My email is [EMAIL-1], and my phone is [PHONE-1].
+[00:01:05] Interviewer: How has your view of the project changed since February?
+[00:01:14] [NAME-4]: On [DATE-2], I thought the GenAI tools were just a shortcut. Now I use them to check my work in [COURSE-2].
+[00:01:48] [NAME-1]: Hi, sorry I'm late -- I'm [NAME-1], ID [ID-2]. My email is [EMAIL-2].
+[00:02:10] [NAME-1]: [NAME-4] and I worked together in [COURSE-1]. [NAME-4] helped me understand the homework on [DATE-3].
+[00:02:36] Interviewer: [NAME-1], what would you change about the study?
+[00:02:44] [NAME-1]: More check-ins. You can text me at [PHONE-2]. Also, my classmate [NAME-2], [EMAIL-3], wanted to join but missed the sign-up.
+[00:03:12] [NAME-4]: [NAME-2] is in [COURSE-2] too. Tell him the next session is on [DATE-4].
+[00:03:30] Interviewer: I will. Thank you both -- [NAME-4] and [NAME-1] -- for your time today.

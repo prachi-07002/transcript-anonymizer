@@ -1,0 +1,16 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: General follow-up interview (fictional)
+Date of interview: May 20, 2026
+Interviewer: Dr. Ben Carter (fictional researcher)
+
+[00:00:03] Interviewer: Noah, thanks for coming back for a follow-up.
+[00:00:11] Noah Kim: No problem. I'm Noah Kim, student ID 0035551212. I am in FIN 30400 and ECE 20875 this semester.
+[00:00:39] Noah Kim: My email is noah.kim@purdue.edu, and my phone is 765.555.0164.
+[00:01:05] Interviewer: How has your view of the project changed since February?
+[00:01:14] Noah Kim: On February 10, 2026, I thought the GenAI tools were just a shortcut. Now I use them to check my work in ECE 20875.
+[00:01:48] Ava Johnson: Hi, sorry I'm late -- I'm Ava Johnson, ID 0039988776. My email is ava.johnson@purdue.edu.
+[00:02:10] Ava Johnson: Noah Kim and I worked together in FIN 30400. Noah helped me understand the homework on March 25, 2026.
+[00:02:36] Interviewer: Ava, what would you change about the study?
+[00:02:44] Ava Johnson: More check-ins. You can text me at (765) 555-0129. Also, my classmate Ethan Brown, ethan.brown@purdue.edu, wanted to join but missed the sign-up.
+[00:03:12] Noah Kim: Ethan Brown is in ECE 20875 too. Tell him the next session is on June 1, 2026.
+[00:03:30] Interviewer: I will. Thank you both -- Noah Kim and Ava Johnson -- for your time today.

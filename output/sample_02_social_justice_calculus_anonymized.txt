@@ -1,0 +1,15 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: Social Justice in Calculus (fictional focus group)
+Date of session: [DATE-1]
+Facilitator: Prof. [NAME-1] (fictional researcher)
+
+[00:00:00] Facilitator: Welcome, everyone. Please introduce yourselves, one at a time.
+[00:00:18] [NAME-4]: I'm [NAME-4]. My Purdue ID is [ID-1], and I'm taking [COURSE-1] this semester.
+[00:00:35] [NAME-2]: I'm [NAME-2], [EMAIL-1]. I took [COURSE-2] last fall and felt pretty lost in the big lecture hall.
+[00:01:02] [NAME-4]: Same. In [COURSE-2], the examples never talked about real communities. [NAME-2] and I both wished the problems used local data.
+[00:01:31] [NAME-2]: Exactly. On [DATE-2], our instructor showed a problem about bus routes, and suddenly the math felt relevant to my neighbourhood.
+[00:02:05] [NAME-3]: I'm [NAME-3], student ID [ID-2]. My email is [EMAIL-2]. I agree with [NAME-4] -- the social justice unit made me stay in the major.
+[00:02:40] Facilitator: [NAME-3], could you say more about that?
+[00:02:48] [NAME-3]: Sure. Call me any time at [PHONE-1]. The unit on housing costs in [COURSE-1] used data from our own city, and that changed how I study.
+[00:03:15] [NAME-4]: And [NAME-2]'s group project on food deserts was the best part of the course.
+[00:03:30] Facilitator: Thank you all. I will email a summary to [NAME-4] and [NAME-2] this week.

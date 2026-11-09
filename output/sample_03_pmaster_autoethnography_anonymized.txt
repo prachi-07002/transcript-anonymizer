@@ -1,0 +1,14 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: Autoethnography with PMaster Game (fictional reflective interview)
+Date of interview: [DATE-1]
+Interviewer: Dr. [NAME-3] (fictional researcher)
+
+[00:00:10] Interviewer: [NAME-2], tell me about your first week playing the PMaster Game.
+[00:00:24] [NAME-2]: I'm [NAME-2], ID [ID-1]. My email is [EMAIL-1]. I played it for my [COURSE-1] project management class.
+[00:00:58] [NAME-2]: [NAME-4] was on my team. [NAME-4]'s ID is [ID-2], and his email is [EMAIL-2]. We met on [DATE-2] to plan our strategy.
+[00:01:35] Interviewer: What did the game teach you about yourself?
+[00:01:47] [NAME-2]: That I avoid conflict. When [NAME-1] disagreed with me, I just went quiet. [NAME-1] is in [COURSE-2] with me, by the way.
+[00:02:19] [NAME-2]: I wrote about it in my journal on [DATE-3]. My phone number is [PHONE-1] if you want the journal pages.
+[00:02:45] Interviewer: Did the game change how you work in teams now?
+[00:02:56] [NAME-2]: Yes. [NAME-4] and I now split tasks in writing, and [NAME-1] checks our schedule every Monday.
+[00:03:20] [NAME-2]: You can also reach me at [EMAIL-1] -- that is the best email for follow-up questions.

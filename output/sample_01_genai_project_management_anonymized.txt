@@ -1,0 +1,14 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: GenAI in Project Management (fictional interview)
+Date of interview: [DATE-1]
+Interviewer: Dr. [NAME-3] (fictional researcher)
+
+[00:00:05] Interviewer: Thanks for joining, [NAME-1]. Could you start by introducing yourself?
+[00:00:12] [NAME-1]: Sure. I'm [NAME-1], a junior in [COURSE-1], and my student ID is [ID-1]. My email is [EMAIL-1] if you need to follow up.
+[00:00:41] Interviewer: Great. How did you first use generative AI in your project team?
+[00:01:03] [NAME-1]: Our team used it to draft the project charter for [COURSE-2]. [NAME-5] was our project manager, and he set up a shared doc. You can reach [NAME-5] at [EMAIL-2] or on his phone at [PHONE-1].
+[00:01:38] Interviewer: Did anyone worry about academic integrity?
+[00:01:52] [NAME-1]: Yes. [NAME-2] said she was nervous about it in [COURSE-3] last semester. [NAME-2]'s email is [EMAIL-3]. I told her we should cite the AI help in our report.
+[00:02:20] [NAME-1]: On [DATE-2], we met with our TA, [NAME-4], after class. [NAME-4] said the policy was still being written.
+[00:02:47] Interviewer: Is there anything else you'd like to add?
+[00:02:55] [NAME-1]: Just that my phone is [PHONE-2] if the recording fails. Thanks for having me.

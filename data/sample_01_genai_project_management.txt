@@ -1,0 +1,14 @@
+FICTIONAL SAMPLE TRANSCRIPT -- all names, emails, IDs, and phone numbers are invented for testing only.
+Study: GenAI in Project Management (fictional interview)
+Date of interview: March 14, 2026
+Interviewer: Dr. Lena Fischer (fictional researcher)
+
+[00:00:05] Interviewer: Thanks for joining, Maya. Could you start by introducing yourself?
+[00:00:12] Maya Thompson: Sure. I'm Maya Thompson, a junior in ECE 36800, and my student ID is 0034567891. My email is maya.thompson@purdue.edu if you need to follow up.
+[00:00:41] Interviewer: Great. How did you first use generative AI in your project team?
+[00:01:03] Maya Thompson: Our team used it to draft the project charter for CS 18000. Jordan Lee was our project manager, and he set up a shared doc. You can reach Jordan at jordan.lee@purdue.edu or on his phone at (765) 555-0142.
+[00:01:38] Interviewer: Did anyone worry about academic integrity?
+[00:01:52] Maya Thompson: Yes. Priya Sharma said she was nervous about it in MA 16500 last semester. Priya's email is priya.sharma@purdue.edu. I told her we should cite the AI help in our report.
+[00:02:20] Maya Thompson: On February 3, 2026, we met with our TA, Alex Morgan, after class. Alex said the policy was still being written.
+[00:02:47] Interviewer: Is there anything else you'd like to add?
+[00:02:55] Maya Thompson: Just that my phone is 765-555-0198 if the recording fails. Thanks for having me.

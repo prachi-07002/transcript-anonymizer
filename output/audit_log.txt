@@ -1,0 +1,85 @@
+TRANSCRIPT ANONYMIZER -- AUDIT LOG
+============================================================
+
+Per-file redaction counts (occurrences):
+  sample_01_genai_project_management.txt: total=25 (name=14, email=3, phone=2, student_id=1, course=3, date=2) | identifiers remaining after redaction: 0
+  sample_02_social_justice_calculus.txt: total=28 (name=17, email=2, phone=1, student_id=2, course=4, date=2) | identifiers remaining after redaction: 0
+  sample_03_pmaster_autoethnography.txt: total=26 (name=15, email=3, phone=1, student_id=2, course=2, date=3) | identifiers remaining after redaction: 0
+  sample_04_followup_interview.txt: total=34 (name=18, email=3, phone=2, student_id=2, course=5, date=4) | identifiers remaining after redaction: 0
+
+TOTAL identifiers redacted (all files): 113
+  Names: 64
+  Emails: 11
+  Phone numbers: 6
+  Student IDs: 7
+  Course codes: 14
+  Dates: 11
+
+Leak check (re-scan of anonymized output):
+  Identifiers remaining: 0 (PASS -- 0 remaining)
+
+Replacements (original -> placeholder, first-seen order):
+  [sample_01_genai_project_management.txt]
+         email: 'maya.thompson@purdue.edu' -> [EMAIL-1]
+         email: 'jordan.lee@purdue.edu' -> [EMAIL-2]
+         email: 'priya.sharma@purdue.edu' -> [EMAIL-3]
+         phone: '(765) 555-0142' -> [PHONE-1]
+         phone: '765-555-0198' -> [PHONE-2]
+    student_id: '0034567891' -> [ID-1]
+        course: 'ECE 36800' -> [COURSE-1]
+        course: 'CS 18000' -> [COURSE-2]
+        course: 'MA 16500' -> [COURSE-3]
+          date: 'March 14, 2026' -> [DATE-1]
+          date: 'February 3, 2026' -> [DATE-2]
+          name: 'Maya Thompson' -> [NAME-1]
+          name: 'Priya Sharma' -> [NAME-2]
+          name: 'Lena Fischer' -> [NAME-3]
+          name: 'Alex Morgan' -> [NAME-4]
+          name: 'Jordan Lee' -> [NAME-5]
+  [sample_02_social_justice_calculus.txt]
+         email: 'taylor.nguyen@purdue.edu' -> [EMAIL-1]
+         email: 'chris.patel@purdue.edu' -> [EMAIL-2]
+         phone: '765-555-0173' -> [PHONE-1]
+    student_id: '0039876542' -> [ID-1]
+    student_id: '0031122334' -> [ID-2]
+        course: 'MA 26100' -> [COURSE-1]
+        course: 'MA 16500' -> [COURSE-2]
+          date: 'April 2, 2026' -> [DATE-1]
+          date: 'January 22, 2026' -> [DATE-2]
+          name: 'Daniel Okafor' -> [NAME-1]
+          name: 'Taylor Nguyen' -> [NAME-2]
+          name: 'Chris Patel' -> [NAME-3]
+          name: 'Sam Rivera' -> [NAME-4]
+  [sample_03_pmaster_autoethnography.txt]
+         email: 'emma.wilson@purdue.edu' -> [EMAIL-1]
+         email: 'liam.chen@purdue.edu' -> [EMAIL-2]
+         phone: '(765) 555-0117' -> [PHONE-1]
+    student_id: '0037654321' -> [ID-1]
+    student_id: '0032468101' -> [ID-2]
+        course: 'MGMT 20100' -> [COURSE-1]
+        course: 'ECE 27000' -> [COURSE-2]
+          date: '05/08/2026' -> [DATE-1]
+          date: 'March 3, 2026' -> [DATE-2]
+          date: 'April 18, 2026' -> [DATE-3]
+          name: 'Sofia Garcia' -> [NAME-1]
+          name: 'Emma Wilson' -> [NAME-2]
+          name: 'Hannah Kim' -> [NAME-3]
+          name: 'Liam Chen' -> [NAME-4]
+  [sample_04_followup_interview.txt]
+         email: 'noah.kim@purdue.edu' -> [EMAIL-1]
+         email: 'ava.johnson@purdue.edu' -> [EMAIL-2]
+         email: 'ethan.brown@purdue.edu' -> [EMAIL-3]
+         phone: '765.555.0164' -> [PHONE-1]
+         phone: '(765) 555-0129' -> [PHONE-2]
+    student_id: '0035551212' -> [ID-1]
+    student_id: '0039988776' -> [ID-2]
+        course: 'FIN 30400' -> [COURSE-1]
+        course: 'ECE 20875' -> [COURSE-2]
+          date: 'May 20, 2026' -> [DATE-1]
+          date: 'February 10, 2026' -> [DATE-2]
+          date: 'March 25, 2026' -> [DATE-3]
+          date: 'June 1, 2026' -> [DATE-4]
+          name: 'Ava Johnson' -> [NAME-1]
+          name: 'Ethan Brown' -> [NAME-2]
+          name: 'Ben Carter' -> [NAME-3]
+          name: 'Noah Kim' -> [NAME-4]
